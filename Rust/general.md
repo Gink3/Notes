@@ -24,3 +24,16 @@ Rules
 * Constant variables - SCREAMING_SNAKE_CASE
 * Type parameters - concise CamelCase, usually single uppercase letter: T
 * Lifetimes	- short, lowercase: 'a
+
+
+## Primative types
+
+### Scalar Types
+* signeda and unsigned integers
+* floats
+* char
+* bool
+
+### Compund Types
+* Arrays - 1 type []
+* Tuples - ()
